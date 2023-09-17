@@ -10,7 +10,7 @@ The analysis is based on data from Kaggle ([Dataset Link](https://www.kaggle.com
 
 ## Materials
 - **Files:** Power BI file, raw data, PDF
-- **Screenshots:** Screenshots of Power BI pages
+- **Screenshots:** a screenshot of Power BI pages
 
 This is the README. Please feel free to reach out if you have any questions or require further information.
 
